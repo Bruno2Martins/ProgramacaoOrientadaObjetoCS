@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\bin\Debug\net8.0\ProgramacaoOrientadaObjeto.exe
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\bin\Debug\net8.0\ProgramacaoOrientadaObjeto.deps.json
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\bin\Debug\net8.0\ProgramacaoOrientadaObjeto.runtimeconfig.json
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\bin\Debug\net8.0\ProgramacaoOrientadaObjeto.dll
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\bin\Debug\net8.0\ProgramacaoOrientadaObjeto.pdb
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\obj\Debug\net8.0\ProgramacaoOrientadaObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\obj\Debug\net8.0\ProgramacaoOrientadaObjeto.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\obj\Debug\net8.0\ProgramacaoOrientadaObjeto.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\obj\Debug\net8.0\ProgramacaoOrientadaObjeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\obj\Debug\net8.0\ProgramacaoOrientadaObjeto.dll
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\obj\Debug\net8.0\refint\ProgramacaoOrientadaObjeto.dll
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\obj\Debug\net8.0\ProgramacaoOrientadaObjeto.pdb
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\obj\Debug\net8.0\ProgramacaoOrientadaObjeto.genruntimeconfig.cache
+C:\Users\bruno\Desktop\Projetos\DIO\dio-dotnet\ProgramacaoOrientadaObjeto\obj\Debug\net8.0\ref\ProgramacaoOrientadaObjeto.dll
