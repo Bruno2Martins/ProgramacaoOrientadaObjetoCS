@@ -186,8 +186,6 @@ Quando cria uma classe, ela já herda automaticamente sem que você implemente a
 | ToString()|                     Retorna uma cadeia de caracteres que representa o objeto atual.|
 ---
 
-<br/><br/>
-
 #### As classes já vem com a herança da classe Object
 ```
 public class Computador : Object
